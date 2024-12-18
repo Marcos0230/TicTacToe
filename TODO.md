@@ -9,7 +9,7 @@
 ## Créer le fichier JS
 ### Gestion des sprites
 - [ ] fonctions ajouter-retirer un sprite dans la grille
-- [ ] images pour les formes "X" et "O"
+- [ ] images pour les formes "X" et "O" (icônes)
 - [ ] fonction partie pvp et pvb
 - [ ] onclick listeners
 - [ ] blocage des duplicatas (ne pas pouvoir placer à un endroit occupé)
