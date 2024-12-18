@@ -2,9 +2,9 @@
 ## Créer la page html
 - [ ] Créer la grille de jeu
 - [ ] Boutons de configurations (PVP, BOT, Commencer, Reset, etc.)
-- [ ] links css et JS
-- [ ] Framework css pour mise en forme + responsiveness
-## Créer le fichier css
+- [x] link CSS et JS
+- [ ] Framework CSS pour mise en forme + responsiveness
+## Créer le fichier CSS
 - [ ] Styliser la grille + éléments internes + boutons
 ## Créer le fichier JS
 ### Gestion des sprites
