@@ -2,14 +2,14 @@
 ## Créer la page html
 - [ ] Créer la grille de jeu
 - [ ] Boutons de configurations (PVP, BOT, Commencer, Reset, etc.)
-- [ ] links css et JS
-- [ ] Framework css pour mise en forme + responsiveness
-## Créer le fichier css
+- [x] link CSS et JS
+- [ ] Framework CSS pour mise en forme + responsiveness
+## Créer le fichier CSS
 - [ ] Styliser la grille + éléments internes + boutons
 ## Créer le fichier JS
 ### Gestion des sprites
 - [ ] fonctions ajouter-retirer un sprite dans la grille
-- [ ] images pour les formes "X" et "O"
+- [ ] images pour les formes "X" et "O" (icônes)
 - [ ] fonction partie pvp et pvb
 - [ ] onclick listeners
 - [ ] blocage des duplicatas (ne pas pouvoir placer à un endroit occupé)
